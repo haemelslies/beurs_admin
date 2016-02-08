@@ -1,0 +1,20 @@
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    margin-left: 50%;
+}
+input::-webkit-calendar-picker-indicator {
+  opacity: 1;
+} 
+
+#header {
+    margin-top: 30px;
+    padding: 0 15px;
+}
+
+#header h1 {
+    padding: 0 15px;
+}
